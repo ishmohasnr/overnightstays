@@ -473,7 +473,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .u-overlay--dark::after {
-  background-color: rgba(96, 110, 131, 0.8);
+  background-color: rgba(146, 146, 146, 0.8);
 }
 
 .u-overlay--light::after {
