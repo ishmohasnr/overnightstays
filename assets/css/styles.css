@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   Highlight Color
 ------------------------------------*/
 ::-moz-selection {
-  color: #fff;
+  color: rgb(10, 10, 10);
   background-color: #2972fa;
 }
 
